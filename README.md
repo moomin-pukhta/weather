@@ -1,3 +1,8 @@
+# Commands to install
+npm i react-accessible-accordion
+npm i react-select-async-paginate --force
+npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
